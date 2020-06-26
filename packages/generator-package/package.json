@@ -14,7 +14,7 @@
     "templates"
   ],
   "publishConfig": {
-    "access": "private"
+    "access": "public"
   },
   "scripts": {
     "build": "tsc",
